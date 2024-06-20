@@ -1,0 +1,52 @@
+/* Start Verification */
+.V-Page {
+    padding-top: 7%;
+    padding-bottom: 4%;
+}
+
+.V-Page h2 {
+    color: #07beac;
+    padding-bottom: 12px;
+    text-align: center;
+}
+
+.V-Page p {
+    text-align: center;
+}
+
+.V-Content {
+    background-color: #f7f7f7;
+    width: 320px;
+    height: 205px;
+    border: none;
+    text-align: center;
+    border-radius: 14px;
+    padding: 40px;
+    margin: 14px;
+    position: relative;
+    left: 41.2%;
+    cursor: pointer;
+    opacity: .7;
+}
+
+
+.Send-button {
+    background-color: #07beac;
+    border: none;
+    color: white;
+    padding: 5px 28px;
+    text-align: center;
+    width: 320px;
+    height: 35px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 8px 1px;
+    cursor: pointer;
+    border-radius: 40px;
+    position: relative;
+    left: 42%;
+    top: 15px;
+}
+
+/* End Verification */
